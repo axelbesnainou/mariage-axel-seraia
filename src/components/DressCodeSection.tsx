@@ -36,7 +36,8 @@ const DressCodeSection = () => {
               Feel free to add a floral accent — everything to embrace style and be
               naturally you.
             </p>
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1cUYhtqcrnD8h8uXRWkxdgl3utHzS3_wWqoyFBEs6Py7zaA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+            <div className="flex justify-center gap-4 mb-8">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1cUYhtqcrnD8h8uXRWkxdgl3utHzS3_wWqoyFBEs6Py7zaA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe></div>
           </div>
           
           {/* Polaroid photos */}
