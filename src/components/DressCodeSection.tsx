@@ -12,7 +12,7 @@ const DressCodeSection = () => {
     <section className="bg-cream py-20 px-6 md:px-16">
       <div className="max-w-5xl mx-auto">
         <h2 className="font-display text-3xl md:text-4xl mb-2 text-center text-foreground">
-          <span className="italic font-body text-2xl">Dress</span> CODE
+          <span className="italic font-body text-2xl">Votre</span> Réponse
         </h2>
         
         <div className="flex flex-col md:flex-row items-center gap-12 mt-10">
