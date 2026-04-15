@@ -12,7 +12,7 @@ const ProgrammeSection = () => {
     <section className="bg-olive-dark py-20 px-6">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="font-display text-3xl md:text-4xl mb-4 text-cream">
-          <span className="italic font-body text-2xl">The</span> PROGRAMM
+          <span className="italic font-body text-2xl">Infos</span> Utiles
         </h2>
         <div className="w-24 h-px bg-cream/40 mx-auto mb-12" />
         
