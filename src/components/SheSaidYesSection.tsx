@@ -32,8 +32,6 @@ const SheSaidYesSection = () => {
             we're thrilled to share that two lives become<br />
             one — forever — together.<br />
           </p>
-            <a href="https://www.freecodecamp.org/">
-    <button>freeCodeCamp</button> </a>
           <h2 className="font-display text-4xl md:text-5xl mb-6 text-foreground">
             <span className="italic font-body text-3xl">L'</span> After Mairie & Henné
           </h2>
