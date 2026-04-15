@@ -30,7 +30,7 @@ const SheSaidYesSection = () => {
             Paris streets to hidden trails.<br /><br />
             After years of love, shared dreams, and joy,<br />
             we're thrilled to share that two lives become<br />
-            one — forever — together.<br />
+            one — forever — together.<br /><br />
           </p>
           <h2 className="font-display text-4xl md:text-5xl mb-6 text-foreground">
             <span className="italic font-body text-3xl">L'</span> After Mairie & Henné
