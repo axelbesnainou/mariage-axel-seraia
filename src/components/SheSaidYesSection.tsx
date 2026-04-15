@@ -18,7 +18,7 @@ const SheSaidYesSection = () => {
         {/* Text */}
         <div className="w-full md:w-1/2 text-center md:text-left">
           <h2 className="font-display text-4xl md:text-5xl mb-6 text-foreground">
-            <span className="italic font-body text-3xl">She</span> SAID YES !
+            <span className="italic font-body text-3xl">La</span> Mairie
           </h2>
           <p className="font-body text-lg leading-relaxed text-muted-foreground">
             It all started with a smile.<br />
