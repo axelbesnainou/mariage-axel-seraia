@@ -42,7 +42,8 @@ const SheSaidYesSection = () => {
             something magical was happening —<br />
             After years of love, shared dreams, and joy,<br />
             we're thrilled to share that two lives become<br />
-            one — forever — together.
+            one — forever — together.<br /><br />
+            <button type="button" class="btn btn-outline-dark">Itinéraire</button>
           </p>
         </div>
       </div>
