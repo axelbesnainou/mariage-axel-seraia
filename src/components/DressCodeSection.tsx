@@ -19,7 +19,7 @@ const DressCodeSection = () => {
           <div className="w-full md:w-2/3 text-center">
             <p className="font-body text-lg text-foreground mb-6">
               The wedding theme is <strong>nature</strong>.
-              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1cUYhtqcrnD8h8uXRWkxdgl3utHzS3_wWqoyFBEs6Py7zaA/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1cUYhtqcrnD8h8uXRWkxdgl3utHzS3_wWqoyFBEs6Py7zaA/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
             </p>
             
             {/* Color swatches */}
