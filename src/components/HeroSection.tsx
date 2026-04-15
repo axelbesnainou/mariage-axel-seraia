@@ -26,7 +26,7 @@ const HeroSection = () => {
     <section className="relative h-screen w-full overflow-hidden">
       <img
         src={heroCouple}
-        alt="Laura and David"
+        alt="Axel and Seraïa"
         className="absolute inset-0 w-full h-full object-cover"
         width={1920}
         height={1080}
@@ -34,9 +34,9 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-foreground/30" />
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-cream">
         <h1 className="font-display text-6xl md:text-8xl tracking-wider leading-tight text-center">
-          <span className="block">Laura</span>
+          <span className="block">Axel</span>
           <span className="block italic font-body text-4xl md:text-5xl my-2">&</span>
-          <span className="block">David</span>
+          <span className="block">Seraïa</span>
         </h1>
         <p className="mt-6 text-lg tracking-[0.3em] uppercase font-body">07.09.2026</p>
         <div className="mt-8 flex gap-6 md:gap-10">
