@@ -18,24 +18,9 @@ const DressCodeSection = () => {
         <div className="flex flex-col md:flex-row items-center gap-12 mt-10">
           <div className="w-full md:w-2/3 text-center">
             <p className="font-body text-lg text-foreground mb-6">
-              The wedding theme is <strong>nature</strong>.
+              Pour répondre merci de cliquer sur le bouton ci-dessous <strong>SVP</strong>.
             </p>
             
-            {/* Color swatches */}
-            <div className="flex justify-center gap-4 mb-8">
-              {colorSwatches.map((s) => (
-                <div key={s.label} className={`w-14 h-14 rounded-full ${s.color} border border-border shadow-sm`} title={s.label} />
-              ))}
-            </div>
-            
-            <p className="font-body text-sm leading-relaxed text-muted-foreground max-w-md mx-auto">
-              We invite you to dress in colors that reflect the natural palette —
-              cream, sage green, soft taupe, or olive hues, reminding us of the
-              landscapes we love. <br /><br />
-              Fine elegant, natural, and breathable fabrics.
-              Feel free to add a floral accent — everything to embrace style and be
-              naturally you.
-            </p>
             <button type="button" class="btn btn-outline-dark btn-lg">Réponse</button>
           </div>
           
