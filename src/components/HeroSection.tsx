@@ -38,7 +38,7 @@ const HeroSection = () => {
           <span className="block italic font-body text-4xl md:text-5xl my-2">&</span>
           <span className="block">Seraïa</span>
         </h1>
-        <p className="mt-6 text-lg tracking-[0.3em] uppercase font-body">06.09.2026</p>
+        <p className="mt-6 text-lg tracking-[0.3em] uppercase font-body">06.10.2026</p>
         <div className="mt-8 flex gap-6 md:gap-10">
           {Object.entries(countdown).map(([label, value]) => (
             <div key={label} className="flex flex-col items-center">
