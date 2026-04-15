@@ -32,6 +32,15 @@ const SheSaidYesSection = () => {
             we're thrilled to share that two lives become<br />
             one — forever — together.<br /><br />
             <button type="button" class="btn btn-outline-dark">Itinéraire</button><br /><br />
+            <a
+            href="https://waze.com/ul?ll=YOUR_LAT,YOUR_LNG&navigate=yes"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-6 py-3 bg-olive text-cream font-body text-sm tracking-widest uppercase hover:bg-olive/80 transition-colors mb-8"
+          >
+            <Navigation size={18} />
+            Itinéraire
+          </a>
           </p>
           <h2 className="font-display text-4xl md:text-5xl mb-6 text-foreground">
             <span className="italic font-body text-3xl">L'</span> After Mairie & Henné
