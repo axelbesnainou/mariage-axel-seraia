@@ -35,6 +35,14 @@ const SheSaidYesSection = () => {
           <h2 className="font-display text-4xl md:text-5xl mb-6 text-foreground">
             <span className="italic font-body text-3xl">L'</span> After Mairie & Henné
           </h2>
+            <p className="font-body text-lg leading-relaxed text-muted-foreground">
+            It all started with a smile.<br />
+            From the very first moment, we knew<br />
+            something magical was happening —<br />
+            After years of love, shared dreams, and joy,<br />
+            we're thrilled to share that two lives become<br />
+            one — forever — together.
+          </p>
         </div>
       </div>
     </section>
