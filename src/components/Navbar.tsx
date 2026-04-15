@@ -5,7 +5,7 @@ const Navbar = () => {
       <div className="flex gap-8">
         <a href="#mairie" className="text-sm tracking-[0.25em] uppercase text-foreground hover:text-olive transition-colors">Mairie</a>
         <a href="#after" className="text-sm tracking-[0.25em] uppercase text-foreground hover:text-olive transition-colors">After Mairie & Henné</a>
-        <a href="#houppa" className="text-sm tracking-[0.25em] uppercase text-foreground hover:text-olive transition-colors">Houppa & Soirée</a>
+        <a href="#houppa" className="text-sm tracking-[0.25em] uppercase text-foreground hover:text-olive transition-colors">Houppa</a>
       </div>
     </nav>
   );
