@@ -1,10 +1,9 @@
 import { Church, Camera, Wine, PartyPopper } from "lucide-react";
 
 const programItems = [
-  { time: "10 am", label: "CHURCH CEREMONY", icon: Church },
-  { time: "12 am", label: "SHOOTING PHOTO", icon: Camera },
-  { time: "2 pm", label: "COCKTAIL", icon: Wine },
-  { time: "5 pm", label: "LET'S PARTY !", icon: PartyPopper },
+  { time: "10 am", label: "LA MAIRIE", icon: Church },
+  { time: "12 am", label: "AFTER MAIRIE & HENNÉ", icon: Camera },
+  { time: "2 pm", label: "HOUPPA & SOIRÉE", icon: Wine },
 ];
 
 const ProgrammeSection = () => {
