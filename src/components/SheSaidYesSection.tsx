@@ -36,8 +36,7 @@ const SheSaidYesSection = () => {
             href="https://waze.com/ul?ll=YOUR_LAT,YOUR_LNG&navigate=yes"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-6 py-3 bg-olive text-cream font-body text-sm tracking-widest uppercase hover:bg-olive/80 transition-colors mb-8"
-          >
+            className="inline-flex items-center gap-2 px-6 py-3 bg-olive text-cream font-body text-sm tracking-widest uppercase hover:bg-olive/80 transition-colors mb-8">
             <Navigation size={18} />
             Itinéraire
           </a>
