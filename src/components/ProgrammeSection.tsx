@@ -15,9 +15,9 @@ const ProgrammeSection = () => {
         </h2>
         <div className="w-24 h-px bg-cream/40 mx-auto mb-12" />
         
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
           {programItems.map((item) => (
-            <div key={item.label} className="flex flex-col items-center gap-"">
+            <div key={item.label} className="flex flex-col items-center gap-"3">
               <item.icon className="w-10 h-10 text-cream/80" strokeWidth={1} />
               <div className="w-px h-6 bg-cream/30" />
               <p className="font-body text-lg text-cream">{item.time}</p>
