@@ -21,7 +21,7 @@ function calculateTimeLeft(target: Date) {
 }
 
 const HeroSection = () => {
-  const countdown = useCountdown(new Date("2026-09-06T00:00:00"));
+  const countdown = useCountdown(new Date("2026-10-06T00:00:00"));
   return (
     <section className="relative h-screen w-full overflow-hidden">
       <img
