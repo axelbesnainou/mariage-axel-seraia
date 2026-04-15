@@ -36,6 +36,7 @@ const DressCodeSection = () => {
               Feel free to add a floral accent — everything to embrace style and be
               naturally you.
             </p>
+            <button type="button" class="btn btn-outline-dark btn-lg">Réponse</button>
           </div>
           
           {/* Polaroid photos */}
