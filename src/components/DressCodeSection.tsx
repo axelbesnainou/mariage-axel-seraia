@@ -37,7 +37,7 @@ const DressCodeSection = () => {
               naturally you.
             </p>
             <div className="font-body text-sm leading-relaxed text-muted-foreground max-w-md mx-auto">
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1cUYhtqcrnD8h8uXRWkxdgl3utHzS3_wWqoyFBEs6Py7zaA/viewform?embedded=true" height="562" frameborder="0" marginheight="auto" marginwidth="auto">Chargement…</iframe></div>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1cUYhtqcrnD8h8uXRWkxdgl3utHzS3_wWqoyFBEs6Py7zaA/viewform?embedded=true" width="500" height="562" frameborder="0" marginheight="auto" marginwidth="auto">Chargement…</iframe></div>
           </div>
           
           {/* Polaroid photos */}
