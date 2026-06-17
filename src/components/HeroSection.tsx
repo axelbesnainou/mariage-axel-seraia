@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import heroCoupleAsset from "@/assets/IMG_6465.jpg";
+import heroCoupleAsset from "@/assets/IMG_6465.jpg.asset.json";
 const heroCouple = heroCoupleAsset.url;
 
 const useCountdown = (targetDate: Date) => {
