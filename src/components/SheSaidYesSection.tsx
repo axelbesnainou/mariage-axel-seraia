@@ -1,5 +1,5 @@
 import { MapPin } from "lucide-react";
-import coupleWalkingAsset from "@/assets/039A6603.jpg.asset.json";
+import coupleWalkingAsset from "@/assets/039A6603.jpg";
 import coupleSteps from "@/assets/c4b0cd2f-d1f7-4007-ab9c-3ce1eccad2ae.jpg";
 const coupleWalking = coupleWalkingAsset.url;
 
