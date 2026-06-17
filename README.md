@@ -1,3 +1,3 @@
-# Mariage Axel & Seraia
+# Welcome to your Lovable project
 
-TODO
+TODO: Document your project here
